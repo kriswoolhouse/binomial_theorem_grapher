@@ -1,1 +1,1 @@
-# binomial_theorem_grapher
+# Binomial Theorem Grapher
